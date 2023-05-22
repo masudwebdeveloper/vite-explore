@@ -1,11 +1,11 @@
-import Home from "./components/Home/Home";
+import StarRating from "./components/StarRating";
 
 const App = () => {
-    return (
-        <div>
-            <Home />
-        </div>
-    );
+  return (
+    <div>
+      <StarRating />
+    </div>
+  );
 };
 
 export default App;
